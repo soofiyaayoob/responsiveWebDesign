@@ -1,0 +1,38 @@
+nav img{
+    width: 13%;
+
+}header{
+    background-image: linear-gradient(rgba(0,0,0,6), rgba(0,0,0,6)) url(/IN-en-20240701-POP_SIGNUP_TWO_WEEKS-perspective_WEB_b00eeb83-a7e8-4b5b-8ff7-86ed92c51caf_small.jpg);
+    background-size: cover;
+    background-position: 50%;
+    height: 90vh;
+    background-image: url(/IN-en-20240701-POP_SIGNUP_TWO_WEEKS-perspective_WEB_b00eeb83-a7e8-4b5b-8ff7-86ed92c51caf_small.jpg);
+}
+.red-btn{
+    background-color: red;
+    color: wheat;
+    border: 0%;
+    border-radius: 0.25rem;
+    padding: 5px 17px;
+}.red-btn:hover{
+    background: red;
+}#select{
+    display: flex;
+    width: 100px;
+    height: 36px;
+}#sigh{
+    display: flex;
+    width: 83px;
+    height: 39px;
+}section{
+    
+    background-size: cover;
+    background-position: 50%;
+    height: 100%;
+    background-color: black;
+    border: 4px solid rgb(109, 106, 106);
+    
+}.two-columns .container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;}
